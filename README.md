@@ -11,7 +11,7 @@ The "Twitter/twhin-bert-large" model is a variant of BERT pre-trained on Twitter
 - **Language:** Multilingual
 - **Training Data:** Twitter data
 - **Task:** Language modeling, fine-tuned for Arabic sentence autocorrection.
-- 
+  
 ## Fine Tune Details
 - Task: Autocorrection of Arabic sentences
 - Training Data: [here](https://www.kaggle.com/datasets/oyounis/cleaned-auto-correct-dataset)
